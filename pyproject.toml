@@ -2,7 +2,7 @@
 name = "rf-gherkin"
 version = "0.1.0"
 description = "Utilizando Gherkin com Robot Framework"
-authors = ["Your Name <you@example.com>"]
+authors = ["Vinicius Trindade <vinicius.trindade@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
