@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "rf-gherkin"
+version = "0.1.0"
+description = "Utilizando Gherkin com Robot Framework"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+robotframework = "^7.0"
+robotframework-seleniumlibrary = "^6.3.0"
+PyYAML = "^6.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
